@@ -1,0 +1,15 @@
+    PID TTY          TIME CMD
+  14339 pts/0    00:00:00 bash
+  16499 pts/0    00:00:20 firefox-esr
+  16568 pts/0    00:00:00 Socket Process
+  16611 pts/0    00:00:01 Privileged Cont
+  16617 pts/0    00:00:00 RDD Process
+  16681 pts/0    00:00:00 WebExtensions
+  16706 pts/0    00:00:00 Utility Process
+  16717 pts/0    00:00:11 Isolated Web Co
+  16761 pts/0    00:00:09 Isolated Web Co
+  16804 pts/0    00:00:00 Isolated Servic
+  16952 pts/0    00:00:00 Web Content
+  17015 pts/0    00:00:00 Web Content
+  17070 pts/0    00:00:00 Web Content
+  17157 pts/0    00:00:00 ps
